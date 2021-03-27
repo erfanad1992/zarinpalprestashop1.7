@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>irankishpayment</name>
+	<displayName>پرداخت آنلاین درگاه زرین پال></displayName>
+	<version>3.0></version>
+	<description>ماژول درگاه بانکی زرین پال></description>
+	<author>www.zarinpal.com></author>
+	<tab>payments_gateways></tab>
+	<confirmUninstall>شما از حذف این ماژول مطمئن هستید ؟</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
